@@ -1,5 +1,5 @@
 <h1 align="center">Hello!! I'm Paulo 👋</h1>
-<h3 align="center">A passionate computer scientist that loves coding and UI design, <br/> on my way to become a frontend developer.</h3>
+<h3 align="center">A passionate computer scientist that loves coding and UI design, <br/> on my way to becoming a front-end developer.</h3>
 
 <p align='center'>
   <a href="https://www.linkedin.com">
